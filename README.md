@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   
 <p><b>If you like my work on GitHub, you can:</b><br>
   <ul>
-    <li>⚡ nominate me in the <a href="https://stars.github.com/profiles"> GitHub Stars program 🌟</a></li>
-    <li>🌱 <a href="https://github.com/sponsors/eldy" target="_blank">sponsor my work here</a></li>
+    <li>🌟 nominate me in the <a href="https://stars.github.com/profiles"> GitHub Stars program</a></li>
+    <li>🌱 <a href="https://github.com/sponsors/eldy" target="_blank">Sponsor my work here</a></li>
     <li>💬 or visit <a href="https://www.destailleur.fr">my personal web site</a>.</li>
   </ul>
 </p>
