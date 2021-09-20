@@ -22,7 +22,7 @@ Visit my personal web site...
 
 <p>I believe Open Source is for EVERYONE. Join me on my <a href="https://twitter.com/eldy10">Twitter channel</a>.</p>
 
-<p>Author of <a href="https://github.com/eldy/AWStats">AWStats Log Analyzer</a>, of <a href="https://github.com/eldy/awstats">Sell-Your-Saas</a>, of <a href="https://github.com/eldy/DoliDroid"> and Project leader of <a href="https://www.dolibarr.org">Dolibarr ERP CRM</a>.</p>
+<p>Author of <a href="https://github.com/eldy/AWStats">AWStats Log Analyzer</a>, of <a href="https://github.com/eldy/awstats">Sell-Your-Saas</a>, of <a href="https://github.com/eldy/DoliDroid">DoliDroid</a>, Project leader of <a href="https://www.dolibarr.org">Dolibarr ERP CRM</a> and more...</p>
 
 <p>You can <a href="https://github.com/sponsors/eldy">sponsor my work here</p>.
   
