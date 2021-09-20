@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-<!--<img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" />-->
-
 <p>I believe Open Source is for EVERYONE. Join me on my <a href="https://twitter.com/eldy10">Twitter channel</a>.</p>
 
 <p>Author of <a href="https://github.com/eldy/AWStats" target="_blank">AWStats Log Analyzer</a>, of <a href="https://github.com/eldy/awstats" target="_blank">Sell-Your-Saas</a>, of <a href="https://github.com/eldy/DoliDroid" target="_blank">DoliDroid</a>, Project leader of <a href="https://www.dolibarr.org" target="_blank">Dolibarr ERP CRM</a> and more...</p>
