@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **eldy/eldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
+<center>
 <a href="https://www.destailleur.fr" target="_blank">
 <!--<img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" />-->
-My personal web site
+Visit my personal web site...
 </a>
-
+</center>
 <p align="center">I believe Open Source is for EVERYONE. Join me on my <a href="https://twitter.com/eldy10">Twitter channel</a>.</p>
 
 <p align="center">Author of <a href="https://github.com.com/eldy/awstats">AWStats Log Analyzer</a>, of <a href="https://github.com.com/eldy/awstats">Sell-Your-Saas</a> and Project leader of <a href="www.dolibarr.org">Dolibarr ERP CRM.</p>
