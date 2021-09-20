@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p>I believe Open Source is for EVERYONE, this is one I provide you all this projects for free...
+<p>I believe Open Source is for EVERYONE, this is why all my work is Open Sourced and free...
 
 <p>Author of <a href="https://github.com/eldy/AWStats" target="_blank">AWStats Log Analyzer</a>, of <a href="https://github.com/eldy/awstats" target="_blank">Sell-Your-Saas</a>, of <a href="https://github.com/eldy/DoliDroid" target="_blank">DoliDroid</a>, Project leader of <a href="https://www.dolibarr.org" target="_blank">Dolibarr ERP CRM</a> and more...</p>
 
