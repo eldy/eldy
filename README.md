@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p>I believe Open Source is for EVERYONE, this is why all my work is Open Sourced and free...
 
-Project leader of <a href="https://www.dolibarr.org" target="_blank">Dolibarr ERP CRM</a>, <p>Author of <a href="https://github.com/eldy/AWStats" target="_blank">AWStats Log Analyzer</a>, of <a href="https://sellyoursaas.org" target="_blank">Sell-Your-Saas</a>, of <a href="https://github.com/DoliCloud/DoliDroid" target="_blank">DoliDroid</a>, <a href="https://www.dolimed.com" target="_blank">DoliMed</a> and more...</p>
+<p>Project leader of <a href="https://www.dolibarr.org" target="_blank">Dolibarr ERP CRM</a>, Author of <a href="https://github.com/eldy/AWStats" target="_blank">AWStats Log Analyzer</a>, of <a href="https://sellyoursaas.org" target="_blank">Sell-Your-Saas</a>, of <a href="https://github.com/DoliCloud/DoliDroid" target="_blank">DoliDroid</a>, <a href="https://www.dolimed.com" target="_blank">DoliMed</a> and more...</p>
 
   
 <p><b>If you like my Open Source work, you can:</b><br>
