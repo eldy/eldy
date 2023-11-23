@@ -36,8 +36,8 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eldy&theme=tokyonight" />
 </p>
 
-<center>
+<p align="center">
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=eldy&show_icons=true&theme=dark)](https://github.com/eldy)
   
-</center>  
+</p>  
