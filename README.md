@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <p>Project leader of <a href="https://www.dolibarr.org" target="_blank">Dolibarr ERP CRM</a>, Author of <a href="https://github.com/eldy/AWStats" target="_blank">AWStats Log Analyzer</a>, of <a href="https://sellyoursaas.org" target="_blank">Sell-Your-Saas</a>, of <a href="https://github.com/DoliCloud/DoliDroid" target="_blank">DoliDroid</a>, <a href="https://www.dolimed.com" target="_blank">DoliMed</a> and more...</p>
 
+<p>Founder of <a href="https://www.dolicloud.com" target="_blank">DoliCloud</p>, <a href="https://www.doliasso.org" target="_blank">DoliAsso</p>
   
 <p><b>If you like my Open Source work, you can:</b><br>
   <ul>
