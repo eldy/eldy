@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <ul>
     <li>🌟 nominate me in the <a href="https://stars.github.com/profiles"> GitHub Stars program</a></li>
     <li>🌱 <a href="https://github.com/sponsors/eldy" target="_blank">Sponsor my work here</a></li>
+    <li>💬 <a href="https://bluesky.social/laurentdestailleur@bsky.social" target="_blank">follow me on BlueSky </a></li>
     <li>💬 <a href="https://twitter.com/LaurentD_Eldy" target="_blank">follow me on twitter </a></li>
     <li>💬 <a href="https://pouet.chapril.org/@LaurentD_Eldy" target="_blank">follow me on Mastodon </a></li>
     <li>📫 or get more information about me by visiting <a href="https://www.destailleur.fr">my personal web site</a>.</li>
